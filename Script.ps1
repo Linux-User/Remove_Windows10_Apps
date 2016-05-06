@@ -20,3 +20,6 @@ Get-AppxPackage *bingsports* | Remove-AppxPackage
 Get-AppxPackage *soundrecorder* | Remove-AppxPackage
 Get-AppxPackage *bingweather* | Remove-AppxPackage
 Get-AppxPackage *xboxapp* | Remove-AppxPackage
+get-appxpackage *sway* | remove-appxpackage
+get-appxpackage *bing* | remove-appxpackage
+
